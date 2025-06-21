@@ -2,8 +2,6 @@
 
 This project is a real-time object detection system using the YOLOv8 model from Ultralytics. It allows users to detect and classify multiple objects in images, videos, or live webcam streams with high accuracy and speed through a user-friendly web interface built with Streamlit.
 
-![YOLOv8 Detection Demo](images/sample_detection.png)
-
 ---
 
 ## 🚀 Features
@@ -20,7 +18,7 @@ This project is a real-time object detection system using the YOLOv8 model from 
 
 - Python
 - OpenCV
-- [Ultralytics YOLOv8](https://docs.ultralytics.com/)
+- [Ultralytics YOLOv8]
 - Streamlit / Gradio
 - NumPy
 
@@ -29,10 +27,10 @@ This project is a real-time object detection system using the YOLOv8 model from 
 ## 📦 Installation
 
 1. **Clone the repository**  
-   git clone https://github.com/yourusername/yolov8-object-detection.git
+   git clone https://github.com/mukul2956/yolov8-object-detection.git
    cd yolov8-object-detection
    
-2. Create a virtual environment (optional but recommended)
+2. Create a virtual environment
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
